@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/UI.Diagnostic.Extractor/UI.Diagnostic.Extractor.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/UI.Diagnostic.Extractor.Tests/UI.Diagnostic.Extractor.Tests.csproj" />
+  </Folder>
+</Solution>

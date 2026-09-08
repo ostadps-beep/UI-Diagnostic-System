@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNQFtpu+/ZM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OstadPS\\Desktop\\ForexPanel-A\\UI-Diagnostic-System\\src\\UI.Diagnostic.Extractor\\UI.Diagnostic.Extractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OstadPS\\.nuget\\packages\\sixlabors.imagesharp\\4.1.1\\sixlabors.imagesharp.4.1.1.nupkg.sha512",
+    "C:\\Users\\OstadPS\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
